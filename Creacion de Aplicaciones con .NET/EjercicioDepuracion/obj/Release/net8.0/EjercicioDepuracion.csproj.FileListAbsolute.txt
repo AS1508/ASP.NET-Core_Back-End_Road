@@ -1,0 +1,15 @@
+C:\Users\alanr\OneDrive\Documentos\GitHub\MicrosoftLearn_Back-End\EjercicioDepuracion\bin\Release\net8.0\EjercicioDepuracion.exe
+C:\Users\alanr\OneDrive\Documentos\GitHub\MicrosoftLearn_Back-End\EjercicioDepuracion\bin\Release\net8.0\EjercicioDepuracion.deps.json
+C:\Users\alanr\OneDrive\Documentos\GitHub\MicrosoftLearn_Back-End\EjercicioDepuracion\bin\Release\net8.0\EjercicioDepuracion.runtimeconfig.json
+C:\Users\alanr\OneDrive\Documentos\GitHub\MicrosoftLearn_Back-End\EjercicioDepuracion\bin\Release\net8.0\EjercicioDepuracion.dll
+C:\Users\alanr\OneDrive\Documentos\GitHub\MicrosoftLearn_Back-End\EjercicioDepuracion\bin\Release\net8.0\EjercicioDepuracion.pdb
+C:\Users\alanr\OneDrive\Documentos\GitHub\MicrosoftLearn_Back-End\EjercicioDepuracion\obj\Release\net8.0\EjercicioDepuracion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alanr\OneDrive\Documentos\GitHub\MicrosoftLearn_Back-End\EjercicioDepuracion\obj\Release\net8.0\EjercicioDepuracion.AssemblyInfoInputs.cache
+C:\Users\alanr\OneDrive\Documentos\GitHub\MicrosoftLearn_Back-End\EjercicioDepuracion\obj\Release\net8.0\EjercicioDepuracion.AssemblyInfo.cs
+C:\Users\alanr\OneDrive\Documentos\GitHub\MicrosoftLearn_Back-End\EjercicioDepuracion\obj\Release\net8.0\EjercicioDepuracion.csproj.CoreCompileInputs.cache
+C:\Users\alanr\OneDrive\Documentos\GitHub\MicrosoftLearn_Back-End\EjercicioDepuracion\obj\Release\net8.0\EjercicioDepuracion.sourcelink.json
+C:\Users\alanr\OneDrive\Documentos\GitHub\MicrosoftLearn_Back-End\EjercicioDepuracion\obj\Release\net8.0\EjercicioDepuracion.dll
+C:\Users\alanr\OneDrive\Documentos\GitHub\MicrosoftLearn_Back-End\EjercicioDepuracion\obj\Release\net8.0\refint\EjercicioDepuracion.dll
+C:\Users\alanr\OneDrive\Documentos\GitHub\MicrosoftLearn_Back-End\EjercicioDepuracion\obj\Release\net8.0\EjercicioDepuracion.pdb
+C:\Users\alanr\OneDrive\Documentos\GitHub\MicrosoftLearn_Back-End\EjercicioDepuracion\obj\Release\net8.0\EjercicioDepuracion.genruntimeconfig.cache
+C:\Users\alanr\OneDrive\Documentos\GitHub\MicrosoftLearn_Back-End\EjercicioDepuracion\obj\Release\net8.0\ref\EjercicioDepuracion.dll
