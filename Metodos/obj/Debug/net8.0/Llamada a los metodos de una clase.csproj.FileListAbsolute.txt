@@ -13,3 +13,18 @@ C:\Users\alanr\OneDrive\Documentos\GitHub\MicrosoftLearn_Back-End\Llamada a los 
 C:\Users\alanr\OneDrive\Documentos\GitHub\MicrosoftLearn_Back-End\Llamada a los metodos de una clase\obj\Debug\net8.0\Llamada a los metodos de una clase.pdb
 C:\Users\alanr\OneDrive\Documentos\GitHub\MicrosoftLearn_Back-End\Llamada a los metodos de una clase\obj\Debug\net8.0\Llamada a los metodos de una clase.genruntimeconfig.cache
 C:\Users\alanr\OneDrive\Documentos\GitHub\MicrosoftLearn_Back-End\Llamada a los metodos de una clase\obj\Debug\net8.0\ref\Llamada a los metodos de una clase.dll
+C:\Users\alanr\OneDrive\Documentos\GitHub\MicrosoftLearn_Back-End\Metodos\bin\Debug\net8.0\Llamada a los metodos de una clase.exe
+C:\Users\alanr\OneDrive\Documentos\GitHub\MicrosoftLearn_Back-End\Metodos\bin\Debug\net8.0\Llamada a los metodos de una clase.deps.json
+C:\Users\alanr\OneDrive\Documentos\GitHub\MicrosoftLearn_Back-End\Metodos\bin\Debug\net8.0\Llamada a los metodos de una clase.runtimeconfig.json
+C:\Users\alanr\OneDrive\Documentos\GitHub\MicrosoftLearn_Back-End\Metodos\bin\Debug\net8.0\Llamada a los metodos de una clase.dll
+C:\Users\alanr\OneDrive\Documentos\GitHub\MicrosoftLearn_Back-End\Metodos\bin\Debug\net8.0\Llamada a los metodos de una clase.pdb
+C:\Users\alanr\OneDrive\Documentos\GitHub\MicrosoftLearn_Back-End\Metodos\obj\Debug\net8.0\Llamada a los metodos de una clase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alanr\OneDrive\Documentos\GitHub\MicrosoftLearn_Back-End\Metodos\obj\Debug\net8.0\Llamada a los metodos de una clase.AssemblyInfoInputs.cache
+C:\Users\alanr\OneDrive\Documentos\GitHub\MicrosoftLearn_Back-End\Metodos\obj\Debug\net8.0\Llamada a los metodos de una clase.AssemblyInfo.cs
+C:\Users\alanr\OneDrive\Documentos\GitHub\MicrosoftLearn_Back-End\Metodos\obj\Debug\net8.0\Llamada a los metodos de una clase.csproj.CoreCompileInputs.cache
+C:\Users\alanr\OneDrive\Documentos\GitHub\MicrosoftLearn_Back-End\Metodos\obj\Debug\net8.0\Llamada a los metodos de una clase.sourcelink.json
+C:\Users\alanr\OneDrive\Documentos\GitHub\MicrosoftLearn_Back-End\Metodos\obj\Debug\net8.0\Llamada a los metodos de una clase.dll
+C:\Users\alanr\OneDrive\Documentos\GitHub\MicrosoftLearn_Back-End\Metodos\obj\Debug\net8.0\refint\Llamada a los metodos de una clase.dll
+C:\Users\alanr\OneDrive\Documentos\GitHub\MicrosoftLearn_Back-End\Metodos\obj\Debug\net8.0\Llamada a los metodos de una clase.pdb
+C:\Users\alanr\OneDrive\Documentos\GitHub\MicrosoftLearn_Back-End\Metodos\obj\Debug\net8.0\Llamada a los metodos de una clase.genruntimeconfig.cache
+C:\Users\alanr\OneDrive\Documentos\GitHub\MicrosoftLearn_Back-End\Metodos\obj\Debug\net8.0\ref\Llamada a los metodos de una clase.dll

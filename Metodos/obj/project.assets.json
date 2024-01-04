@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\alanr\\OneDrive\\Documentos\\GitHub\\MicrosoftLearn_Back-End\\Llamada a los metodos de una clase\\Llamada a los metodos de una clase.csproj",
+      "projectUniqueName": "C:\\Users\\alanr\\OneDrive\\Documentos\\GitHub\\MicrosoftLearn_Back-End\\Metodos\\Llamada a los metodos de una clase.csproj",
       "projectName": "Llamada a los metodos de una clase",
-      "projectPath": "C:\\Users\\alanr\\OneDrive\\Documentos\\GitHub\\MicrosoftLearn_Back-End\\Llamada a los metodos de una clase\\Llamada a los metodos de una clase.csproj",
+      "projectPath": "C:\\Users\\alanr\\OneDrive\\Documentos\\GitHub\\MicrosoftLearn_Back-End\\Metodos\\Llamada a los metodos de una clase.csproj",
       "packagesPath": "C:\\Users\\alanr\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\alanr\\OneDrive\\Documentos\\GitHub\\MicrosoftLearn_Back-End\\Llamada a los metodos de una clase\\obj\\",
+      "outputPath": "C:\\Users\\alanr\\OneDrive\\Documentos\\GitHub\\MicrosoftLearn_Back-End\\Metodos\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\alanr\\AppData\\Roaming\\NuGet\\NuGet.Config",

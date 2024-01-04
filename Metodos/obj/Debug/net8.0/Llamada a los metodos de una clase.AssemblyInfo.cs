@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Llamada a los metodos de una clase")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+49ec68d8e8752cab520895210be3823ba99ea821")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6ad70c5ae29f581612add5819a4afc9ddff4e046")]
 [assembly: System.Reflection.AssemblyProductAttribute("Llamada a los metodos de una clase")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Llamada a los metodos de una clase")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
